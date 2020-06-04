@@ -230,6 +230,8 @@ sleep 3
 exit
 fi
 
+fi
+
 if [ $pil = I ]
 then
 clear
